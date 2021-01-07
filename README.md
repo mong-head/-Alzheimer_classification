@@ -1,4 +1,7 @@
 # Alzheimer_classification
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 노인의 데이터로 알츠하이머일지 분별하는 프로젝트
 
 - hands-on-machine-learning 많이 참고
